@@ -1,2 +1,2 @@
 # userService
-Simpmle node based AWS Lambda REST service
+Simple node based AWS Lambda REST service
